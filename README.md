@@ -68,3 +68,14 @@ Roughly 50% of the non-Vine reviews were 5 stars.
 From the above results, there appears to be no positivity bias for the reviews in the Vine Program. The percentage of five star rating in paid reviews is 42% which is relatively lower than the percentage of five star rating of for unpaid reviews of 50%.  
 
 ### Additional Analysis
+
+Although several comparisons can be made between Vine and non-Vine reviews numbers, here's one such idea:
+
+* Average Vine rating versus average non-Vine rating can be compared for every product.
+
+This might give some insight into product by product comparisons for between Vine and non-Vine ratings. 
+
+* Distribution curve analysis for rating within Vine and non-Vine Reviews. 
+
+The ratings from the reviews can be sorted into percentile buckets and visualized in districution curves. This analysis may indicate any trends, or lack of, in the distribution curves of the ratings. 
+
